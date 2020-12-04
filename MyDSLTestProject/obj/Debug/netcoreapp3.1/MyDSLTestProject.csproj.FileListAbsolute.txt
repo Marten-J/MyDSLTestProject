@@ -1,0 +1,13 @@
+C:\Users\Marten\source\repos\MyDSLTestProject\MyDSLTestProject\bin\Debug\netcoreapp3.1\MyDSLTestProject.exe
+C:\Users\Marten\source\repos\MyDSLTestProject\MyDSLTestProject\bin\Debug\netcoreapp3.1\MyDSLTestProject.deps.json
+C:\Users\Marten\source\repos\MyDSLTestProject\MyDSLTestProject\bin\Debug\netcoreapp3.1\MyDSLTestProject.runtimeconfig.json
+C:\Users\Marten\source\repos\MyDSLTestProject\MyDSLTestProject\bin\Debug\netcoreapp3.1\MyDSLTestProject.runtimeconfig.dev.json
+C:\Users\Marten\source\repos\MyDSLTestProject\MyDSLTestProject\bin\Debug\netcoreapp3.1\MyDSLTestProject.dll
+C:\Users\Marten\source\repos\MyDSLTestProject\MyDSLTestProject\bin\Debug\netcoreapp3.1\MyDSLTestProject.pdb
+C:\Users\Marten\source\repos\MyDSLTestProject\MyDSLTestProject\obj\Debug\netcoreapp3.1\MyDSLTestProject.csprojAssemblyReference.cache
+C:\Users\Marten\source\repos\MyDSLTestProject\MyDSLTestProject\obj\Debug\netcoreapp3.1\MyDSLTestProject.AssemblyInfoInputs.cache
+C:\Users\Marten\source\repos\MyDSLTestProject\MyDSLTestProject\obj\Debug\netcoreapp3.1\MyDSLTestProject.AssemblyInfo.cs
+C:\Users\Marten\source\repos\MyDSLTestProject\MyDSLTestProject\obj\Debug\netcoreapp3.1\MyDSLTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Marten\source\repos\MyDSLTestProject\MyDSLTestProject\obj\Debug\netcoreapp3.1\MyDSLTestProject.dll
+C:\Users\Marten\source\repos\MyDSLTestProject\MyDSLTestProject\obj\Debug\netcoreapp3.1\MyDSLTestProject.pdb
+C:\Users\Marten\source\repos\MyDSLTestProject\MyDSLTestProject\obj\Debug\netcoreapp3.1\MyDSLTestProject.genruntimeconfig.cache
